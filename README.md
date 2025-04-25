@@ -1,4 +1,4 @@
-# Retail-Business-performance-Analysis
+# Retail-Business-performance-Analysis:
 This project demonstrates an analysis of a superstore's sales data, utilizing Power Query for data transformation, DAX for advanced calculations, and Data Modeling for structuring relationships between tables. The final visualizations are presented through interactive dashboards in Power BI.
 
 # Case Study:
@@ -95,11 +95,14 @@ d. Power BI Visualizations : For creating interactive and visually appealing rep
 # Key Takeaways:
 
 1- Sales growth is driven by discounted products, especially in office supplies and technology.
+
 2- Geographic regions like the West and East dominate sales, with California being a critical market.
+
 3- Profit margins are higher in technology and office supplies, but profitability in furniture is concerning with a negative contribution.
+
 4- Delivery times and order patterns suggest opportunities for improving operational efficiency, particularly in reducing delivery times for standard shipping.
 
-# Recommendations :-
+# Recommendations:
 
 1-Leverage Discounted Sales :
   Since a significant portion of sales comes from discounted products, especially small cart sizes, it may be beneficial to continue offering strategic 
