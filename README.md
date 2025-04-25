@@ -91,3 +91,35 @@ d. Power BI Visualizations : For creating interactive and visually appealing rep
   Same Day : Less than 1 day (quickest).
   
   2- Order Patterns : Orders are highest on Monday and Friday, but drop significantly on weekends.
+
+# Key Takeaways:
+
+1- Sales growth is driven by discounted products, especially in office supplies and technology.
+2- Geographic regions like the West and East dominate sales, with California being a critical market.
+3- Profit margins are higher in technology and office supplies, but profitability in furniture is concerning with a negative contribution.
+4- Delivery times and order patterns suggest opportunities for improving operational efficiency, particularly in reducing delivery times for standard shipping.
+
+# Recommendations :-
+
+1-Leverage Discounted Sales :
+  Since a significant portion of sales comes from discounted products, especially small cart sizes, it may be beneficial to continue offering strategic 
+  discounts, particularly for office supplies and technology, which perform well in this regard.
+
+2-Focus on High-Performing Regions :
+  The West and East regions, especially California, are your strongest markets. Consider focusing marketing and promotions in these regions to maximize growth 
+  potential.
+
+3-Improve Profitability in Furniture :
+  Furniture shows negative profitability. It may be wise to assess costs, pricing strategies, or product demand within this category to turn it around.
+
+4-Optimize Shipping Times :
+  Standard Class shipments have the longest delivery time (5 days). Streamlining this process or offering incentives for faster shipping options could improve 
+  customer satisfaction and boost sales.
+
+5-Target Order Peaks :
+  Since orders peak on Mondays and Fridays, you can consider running promotions or marketing campaigns aligned with these days to capitalize on customer buying 
+  behavior.
+
+6-Seasonal and Promotional Planning :
+  With high fluctuations in Month-over-Month sales, planning for key seasonal promotions or events where sales spike (like March and November) could help smoothen 
+  sales volatility.
