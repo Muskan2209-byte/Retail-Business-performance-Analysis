@@ -28,12 +28,16 @@ Sl.No	Column Name	Column Description
 
 # Tools Used:
 a. Power Query : For data cleaning, transformation, and preparation.
+
 b. Data Modeling : Creating relationships between various tables like orders, products, customers, and regions.
+
 c. DAX (Data Analysis Expressions) : For custom measures, calculations, and KPIs to perform dynamic analysis.
+
 d. Power BI Visualizations : For creating interactive and visually appealing reports to deliver business insights.
 
 # Key Insights:
 * Sales and Growth :-
+  
   1- Total Sales : ₹ 2.33 million, with ₹ 923.13K coming from discounted sales.
 
   2- Yearly Sales : Sales steadily increased from ₹ 470,636 in 2014 to ₹ 750,471 in 2017.
@@ -47,6 +51,7 @@ d. Power BI Visualizations : For creating interactive and visually appealing rep
   significant drops. This indicates that sales are highly seasonal and likely driven by promotions or other factors.
 
 * Geographic Insights :-
+  
   1- Sales by Region :
   West : ₹ 742,919 (highest)
   East : ₹ 695,776
@@ -55,6 +60,7 @@ d. Power BI Visualizations : For creating interactive and visually appealing rep
   2- California is the top-performing state with ₹ 471,811 in sales, followed by New York at ₹ 357,898.
   
 * Product and Segment Insights :-
+  
   1- Sales by Category :
 
   Technology : Top category, generating the highest sales at ₹ 872,745.
@@ -66,6 +72,7 @@ d. Power BI Visualizations : For creating interactive and visually appealing rep
   The largest portion of sales came from low cart sizes with over 50% discounts. This suggests customers are attracted to discounted items in smaller quantities.
 
 * Profitability Insights :-
+  
   1- Profit by Category :
 
   Office supplies and technology are the most profitable categories, while furniture shows negative profits.
@@ -74,6 +81,7 @@ d. Power BI Visualizations : For creating interactive and visually appealing rep
   3- Copiers and Accessories are the top sub-categories in terms of profitability, with copiers generating over ₹ 33K in profit.
 
 * Operational Insights :-
+  
   1- Delivery Times :
 
   Standard Class : 5 days (longest average delivery time).
